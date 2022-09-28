@@ -1,0 +1,15 @@
+F:\CS30\Student-Grades\bin\Debug\net6.0\Student-Grades.exe
+F:\CS30\Student-Grades\bin\Debug\net6.0\Student-Grades.deps.json
+F:\CS30\Student-Grades\bin\Debug\net6.0\Student-Grades.runtimeconfig.json
+F:\CS30\Student-Grades\bin\Debug\net6.0\Student-Grades.dll
+F:\CS30\Student-Grades\bin\Debug\net6.0\Student-Grades.pdb
+F:\CS30\Student-Grades\obj\Debug\net6.0\Student-Grades.csproj.AssemblyReference.cache
+F:\CS30\Student-Grades\obj\Debug\net6.0\Student-Grades.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\Student-Grades\obj\Debug\net6.0\Student-Grades.AssemblyInfoInputs.cache
+F:\CS30\Student-Grades\obj\Debug\net6.0\Student-Grades.AssemblyInfo.cs
+F:\CS30\Student-Grades\obj\Debug\net6.0\Student-Grades.csproj.CoreCompileInputs.cache
+F:\CS30\Student-Grades\obj\Debug\net6.0\Student-Grades.dll
+F:\CS30\Student-Grades\obj\Debug\net6.0\refint\Student-Grades.dll
+F:\CS30\Student-Grades\obj\Debug\net6.0\Student-Grades.pdb
+F:\CS30\Student-Grades\obj\Debug\net6.0\Student-Grades.genruntimeconfig.cache
+F:\CS30\Student-Grades\obj\Debug\net6.0\ref\Student-Grades.dll
